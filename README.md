@@ -5,7 +5,7 @@ The original project that made this possible is here (https://github.com/nfzerox
 
 Changelist:
  - App icons
- - Wallpapers (Only updated for the 2012 Grey because I can't test the others, except for the black one which is on every model)
+ - Wallpapers
  - Music in-app icons
  - Current playing UI
  - Switches
