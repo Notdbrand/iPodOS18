@@ -3,7 +3,10 @@ Custom iPod theme for iPod nano 7G. Ipsw and custom images included in the relea
 To install all you need to do is restore your iPod in iTunes with the custom ipsw. A guide is at the end of original Github repo.
 The original project that made this possible is here (https://github.com/nfzerox/ipod_theme)
 
-Changelist:
+# Note:
+I got banned from the iPod Nano 6/7 Theme sharing discord server a while ago and I still don't know why. If I make new stuff, it'll just be posted to the ipod subreddit. 
+
+# Changelist:
  - App icons
  - Wallpapers
  - Music in-app icons
@@ -16,7 +19,7 @@ Changelist:
  - Clock UI
  - Syncing icons and animation
 
-Below is photos of the main changes that I've made.
+# Example Photos:
 ![1](https://github.com/user-attachments/assets/3a0a17c4-9ba4-4f57-af65-720a23863360)
 ![2](https://github.com/user-attachments/assets/1dd9a68f-e311-4708-8d39-755907bbce83)
 ![3](https://github.com/user-attachments/assets/861551a4-e1b7-4327-afd1-30214340bc41)
